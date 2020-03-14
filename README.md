@@ -7,7 +7,7 @@ It can't process more than **2097152** values at the moment.
 
 This is a test/prototype code, not a tool or anything intended for real use!
 
-Sorting is done always for power of two values like 1024,2048,4096 and so on. Padding is added to enable sorting non-power of two sequences.
+Sorting is done always for power of two values like 1024, 2048, 4096 and so on. Padding is added to enable sorting non-power of two sequences.
 
 ## Motivation
 - I wanted to learn how the Bitonic sort actually works, and I also wanted to implement it on GPU (at least partially.)
