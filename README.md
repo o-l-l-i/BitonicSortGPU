@@ -28,3 +28,5 @@ Sorting is done always for power of two values like 1024, 2048, 4096 and so on. 
 
 ## Code in action
 ![Bitonic sort in action](bitonicsortGPU.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
